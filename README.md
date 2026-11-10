@@ -4,19 +4,19 @@
 
 The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&utm_medium=internship-list&utm_campaign=header), on GitHub. Tech comes first: software, data and AI, product and engineering. Finance, consulting, marketing and accounting follow, with pay wherever the company posts it. Fall, spring and co-op roles are in here too.
 
-### Browse 893 internship roles by field
+### Browse 891 internship roles by field
 
-- **[Software Engineering & Technology](#software-engineering--technology-internships)** (214)
-- **[Data, AI & Analytics](#data-ai--analytics-internships)** (119)
-- **[Product, Design & UX](#product-design--ux-internships)** (59)
+- **[Software Engineering & Technology](#software-engineering--technology-internships)** (213)
+- **[Data, AI & Analytics](#data-ai--analytics-internships)** (116)
+- **[Product, Design & UX](#product-design--ux-internships)** (60)
 - **[Engineering](#engineering-internships)** (344)
-- **[Finance & Banking](#finance--banking-internships)** (138)
+- **[Finance & Banking](#finance--banking-internships)** (141)
 - **[Consulting](#consulting-internships)** (21)
-- **[Accounting](#accounting-internships)** (76)
+- **[Accounting](#accounting-internships)** (75)
 - **[Business, Operations & Strategy](#business-operations--strategy-internships)** (869)
-- **[Marketing, Sales & Communications](#marketing-sales--communications-internships)** (116)
-- **[Healthcare, Biotech & Life Sciences](#healthcare-biotech--life-sciences-internships)** (33)
-- **[Government, Policy & Public Sector](#government-policy--public-sector-internships)** (11)
+- **[Marketing, Sales & Communications](#marketing-sales--communications-internships)** (115)
+- **[Healthcare, Biotech & Life Sciences](#healthcare-biotech--life-sciences-internships)** (34)
+- **[Government, Policy & Public Sector](#government-policy--public-sector-internships)** (12)
 
 ---
 
@@ -44,6 +44,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **BorgWarner** | Software Test Intern | Auburn Hills - Michigan - USA |  | [Apply](https://www.useno.app/internship/workday%3Aborgwarner%3AR2026-4385?utm_source=github) | 4d |
 | **Bosch** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Abosch%3A744000160208440?utm_source=github) | 4d |
 | **Brave Like Me** | Software Engineering Intern - Waterloo University - Winter Session | Canada | CA$60/hr | [Apply](https://www.useno.app/internship/greenhouse%3Abrave-like-me%3A8360001?utm_source=github) | 4d |
+| **Cisco** | Software Developer Embedded Systems I (Co-op) - Canada | Kanata, Saint-Laurent, Calgary + 3 more |  | [Apply](https://www.useno.app/internship/workday%3Acisco%3A2024111?utm_source=github) | 4d |
 | **Clean Harbors** | Process Technology Intern Industrial Services \| Summer 2027 | Crossville, IL, United States | $20/hr | [Apply](https://www.useno.app/internship/oracle-orc%3Aclean-harbors%3A167974?utm_source=github) | 4d |
 | **Dandy** | Summer 2027 Internship - PhD Research Intern | USA - New York NY, New York City | $60-72/hr | [Apply](https://www.useno.app/internship/ashby%3Adandy%3A52bcfe21-dfa6-4669-8b58-b995c6e97b31?utm_source=github) | 4d |
 | **DataRobot** | Software Design Engineer Intern | Boston, Seattle, Remote Canada - ON + 1 more |  | [Apply](https://www.useno.app/internship/workday%3Adatarobot%3AR-102764?utm_source=github) | 4d |
@@ -96,6 +97,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | $74/hr | [Apply](https://www.useno.app/internship/greenhouse%3Afigma%3A6241542004?utm_source=github) | 6d |
 | **General Dynamics Mission Systems** | SW Engineering Intern (Port Orchard) | Port Orchard, WA, US | $25/hr | [Apply](https://www.useno.app/internship/icims%3Aicims-gdms%3A78349?utm_source=github) | 6d |
 | **General Dynamics UK** | Junior Systems Engineer – ISTAR | Ottawa, ON, Canada | CA$36-38/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Ageneral-dynamics-uk%3A744000159681119?utm_source=github) | 6d |
+| **Genuine Parts Company** | DevOps Engineer I | Birmingham, AL, USA |  | [Apply](https://www.useno.app/internship/workday%3Agenuine-parts%3AR26_0000036450?utm_source=github) | 6d |
 | **Great-West Life** | Customer Data Technician (Student Position) | Kitchener Ontario, ON, CA, N2P 2G5 +2 more&hellip | CA$19-28/hr | [Apply](https://www.useno.app/internship/successfactors%3Agreat-west-life%3A1444837233?utm_source=github) | 6d |
 | **Howmet Aerospace** | Cybersecurity Intern | Pittsburgh, PA, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Ahowmet-aerospace%3A119551?utm_source=github) | 6d |
 | **HP** | Software Engineering Intern, AIML Platform - HP IQ | San Francisco, California, United States of America | $40-50/hr | [Apply](https://www.useno.app/internship/workday%3Ahp%3AUNI4800?utm_source=github) | 6d |
@@ -110,7 +112,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **ACLU - Internships** | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | $20/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aaclu-internships%3A8927658002?utm_source=github) | 7d |
 | **Alarm.com** | Software Rotation Program Associate | Tysons, Virginia | $50-53/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aalarm-com%3A8923631002?utm_source=github) | 7d |
 | **American Express** | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Aamerican-express%3A26016065?utm_source=github) | 7d |
-| **American Express** | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA | Sunnyvale, CA, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Aamerican-express%3A26015722?utm_source=github) | 7d |
 | **Arlo** | Firmware Developer Co-op | Richmond, BC, Canada |  | [Apply](https://www.useno.app/internship/workday%3Aarlo%3AIntern%20(Fixed%20Term)%20(Trainee)?utm_source=github) | 7d |
 | **Arrowstreet Capital** | Software Engineer Intern, Summer 2027 | Boston |  | [Apply](https://www.useno.app/internship/workday%3Aarrowstreet-capital%3AR1561?utm_source=github) | 7d |
 | **Biogen** | Intern, Information Technology | Cambridge, MA | $28/hr | [Apply](https://www.useno.app/internship/workday%3Abiogen%3AREQ24162?utm_source=github) | 7d |
@@ -174,9 +175,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **ICF** | 2027 Summer Intern, Software Developer (Reston, VA) | Reston, VA | $18-31/hr | [Apply](https://www.useno.app/internship/workday%3Aicf%3AR2603002?utm_source=github) | 14d |
 | **Lydian** | Mechanical Engineer Co-op | Boston | $30-32/hr | [Apply](https://www.useno.app/internship/ashby%3Alydian%3A9a3b543c-cee8-4fd9-b5e5-5d44a6f994ef?utm_source=github) | 14d |
 | **Visa** | 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn | US - Ashburn, VA | $41-48/hr | [Apply](https://www.useno.app/internship/workday%3Avisa-2%3AREF089878W?utm_source=github) | 14d |
-| **Visa** | 2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027 | US - Austin, TX | $39-46/hr | [Apply](https://www.useno.app/internship/workday%3Avisa-2%3AREF089882W?utm_source=github) | 14d |
-| **Wells Fargo** | 2027 Technology Summer Internship - Early Careers (Cybersecurity) | CHARLOTTE, NC; PHOENIX, AZ; CHANDLER, AZ | $48/hr | [Apply](https://www.useno.app/internship/workday%3Awellsfargo%3AR-583417?utm_source=github) | 14d |
-| **Wells Fargo** | 2027 Technology Summer Internship – Early Careers (Data Engineering) | CHARLOTTE, NC; IRVING, TX; ISELIN, NJ | $48/hr | [Apply](https://www.useno.app/internship/workday%3Awellsfargo%3AR-583066?utm_source=github) | 14d |
 | **BGE** | TAMPA - Transportation, Internship | 5426 Bay Center Dr., Suite 100, Tampa, Florida 33609 |  | [Apply](https://www.useno.app/internship/greenhouse%3Abge%3A5463346008?utm_source=github) | 15d |
 | **Kinaxis** | Intern Cloud Developer, Platform Engineering | Ottawa, ON, CA | CA$25-37/hr | [Apply](https://www.useno.app/internship/icims%3Akinaxis-2%3A35572?utm_source=github) | 15d |
 | **Pony.ai** | Research Intern - Deep Learning | Fremont, California, United States | $70/hr | [Apply](https://www.useno.app/internship/workable%3Apony-ai%3A4C1F53EF5D?utm_source=github) | 15d |
@@ -184,7 +182,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco | $41/hr | [Apply](https://www.useno.app/internship/greenhouse%3Atogether-ai%3A5271149007?utm_source=github) | 15d |
 | **1Password** | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States \| Canada) | CA$50/hr | [Apply](https://www.useno.app/internship/ashby%3A1password%3A67bfbd8b-aba9-42b1-a8a8-833367888fba?utm_source=github) | 18d |
 | **1Password** | Developer Intern, Developer Interfaces - Winter 2027 | Remote (United States \| Canada) | CA$50/hr | [Apply](https://www.useno.app/internship/ashby%3A1password%3A00f861d4-2b4a-4159-b6dc-8aed0cde6e39?utm_source=github) | 18d |
-| **Blue Origin** | Summer 2027 Electrical Systems Engineering Internship - Graduate | Greater Seattle Area; Space Coast, FL; Huntsville, AL + 2 more | $38/hr | [Apply](https://www.useno.app/internship/workday%3Ablueorigin%3AR71437?utm_source=github) | 18d |
 | **Fortinet** | Early Careers: AI Automation Engineer | Sunnyvale, CA, United States | $53-82/hr | [Apply](https://www.useno.app/internship/oracle-orc%3Afortinet%3A24771?utm_source=github) | 18d |
 | **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin, New York City, San Francisco | $42-59/hr | [Apply](https://www.useno.app/internship/greenhouse%3Amongodb%3A8209134?utm_source=github) | 18d |
 | **Morningstar** | Morningstar Development Program - Wealth Technology Track (Former Interns) | Chicago | $44/hr | [Apply](https://www.useno.app/internship/workday%3Amorningstar%3AREQ-058715?utm_source=github) | 18d |
@@ -192,6 +189,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Quadric** | Deep Learning Compiler Intern | Burlingame, CA (HQ); Burlingame | $50-57/hr | [Apply](https://www.useno.app/internship/ashby%3Aquadric%3A3f972411-63a7-4b94-869b-85012cc10d52?utm_source=github) | 18d |
 | **TELUS Digital** | Software Engineering Intern/Co-op (Canada) - Summer 2027 | Vancouver | CA$33/hr | [Apply](https://www.useno.app/internship/ashby%3Atelus-digital%3A63b0654a-9849-4d74-bc3f-94b2ccceb2c2?utm_source=github) | 18d |
 | **Allen Control Systems** | Android Developer Intern, 2027 | Austin, TX; Austin | $20/hr | [Apply](https://www.useno.app/internship/ashby%3Aallen-control-2%3A1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94?utm_source=github) | 19d |
+| **C.H. Robinson** | Cyber Security Internship 2027 | Eden Prairie, MN United States of America | $15-30/hr | [Apply](https://www.useno.app/internship/workday%3Ac-h-robinson%3AR49322?utm_source=github) | 19d |
 | **Lazard** | 2027 Summer Associate - Boston Technology | Boston, United States | $89/hr | [Apply](https://www.useno.app/internship/oracle-orc%3Alazard%3A6706?utm_source=github) | 19d |
 | **Peak Energy** | Systems Integration and Test Engineer Intern (Summer 2027) | Burlingame, California | $35/hr | [Apply](https://www.useno.app/internship/greenhouse%3Apeak-energy%3A5272567007?utm_source=github) | 19d |
 | **Twitch** | Undergrad Software Engineering Intern (Grad Year: Spring 2028) | San Francisco, CA | $43/hr | [Apply](https://www.useno.app/internship/greenhouse%3Atwitch%3A8886748002?utm_source=github) | 19d |
@@ -239,6 +237,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Gotion** | Junior Equipment Engineer | Manteno, Illinois | $31-34/hr | [Apply](https://www.useno.app/internship/greenhouse%3Agotion%3A8885694002?utm_source=github) | 28d |
 | **Silicon Laboratories** | Software Engineer I | Austin | $38-70/hr | [Apply](https://www.useno.app/internship/workday%3Asilicon-laboratories%3A21011?utm_source=github) | 28d |
 | **Voyager Technologies** | Systems Engineer II - Project Engineer | Folsom, CA or Reno, NV | $40-62/hr | [Apply](https://www.useno.app/internship/greenhouse%3Avoyager%3A4444682009?utm_source=github) | 28d |
+| **Wing** | Data Infra Software Engineering Intern, Summer 2027 | Palo Alto, California | $62-65/hr | [Apply](https://www.useno.app/internship/greenhouse%3Awing%3A8872471002?utm_source=github) | 28d |
 | **Azul** | IT Intern, AI and Operations | Sunnyvale, CA; United States - Remote | $25/hr | [Apply](https://www.useno.app/internship/lever%3Aazul%3A8f41ceaf-8835-4fc7-ba57-9384487d59db?utm_source=github) | 29d |
 | **CannonDesign** | Service Desk Analyst Intern | Chicago, IL | $21-26/hr | [Apply](https://www.useno.app/internship/greenhouse%3Acannondesign%3A8883214002?utm_source=github) | 29d |
 | **D.A. Davidson Companies** | Technology Group, Investment Banking – Summer Analyst – 2028 Grads | New York, NY | $35/hr | [Apply](https://www.useno.app/internship/lever%3Ad-a-davidson-companies%3A2210a46e-aa69-47ce-959a-a2835feb6081?utm_source=github) | 29d |
@@ -251,7 +250,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | Company | Role | Location | Pay | Apply | Age |
 | --- | --- | --- | --- | :---: | --- |
 | **Guidehouse** | Intern - Health Automation & Analytics, Provider Advisory - Campus 2027 | US - VA, Arlington; US - IL, Chicago; US - NY, New York + 1 more | $28-47/hr | [Apply](https://www.useno.app/internship/workday%3Aguidehouse%3A46421?utm_source=github) | 3d |
-| **Meta** | Research Scientist Intern, Generative AI & 3D Generation (PhD) | Burlingame, CA |  | [Apply](https://www.useno.app/internship/custom_careers%3Ameta%3A0369f99c51abfea0a41dce77316f2abde8de7b60?utm_source=github) | 3d |
+| **Meta** | Research Scientist Intern, Generative AI & 3D Generation (PhD) | Seattle, WA |  | [Apply](https://www.useno.app/internship/custom_careers%3Ameta%3A0369f99c51abfea0a41dce77316f2abde8de7b60?utm_source=github) | 3d |
 | **Pierce Manufacturing** | Customer Support AI Intern | McConnellsburg, Pennsylvania, United States | $18-37/hr | [Apply](https://www.useno.app/internship/workday%3Apierce-manufacturing%3AR49501?utm_source=github) | 3d |
 | **Uhaul** | Data Analyst Spring Internship | Phoenix, Arizona | $17/hr | [Apply](https://www.useno.app/internship/workday%3Auhaul%3AR258909?utm_source=github) | 3d |
 | **Zoox** | AI Workflows Intern \[2027\] | Foster City, CA |  | [Apply](https://www.useno.app/internship/lever%3Azoox%3A0168ad29-2fd8-4c91-865c-b9fff8aa30c1?utm_source=github) | 3d |
@@ -286,7 +285,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Cadence Design Systems** | CST Intern - Data Center GTM Intern | SAN JOSE | $29-53/hr | [Apply](https://www.useno.app/internship/workday%3Acadence%3AR57099?utm_source=github) | 7d |
 | **GenMD** | Member of Technical Staff Intern, Applied AI | Palo Alto | $45-60/hr | [Apply](https://www.useno.app/internship/ashby%3Agenmd%3A47c4fc76-f21f-402b-9d5c-45bafe30aa2c?utm_source=github) | 7d |
 | **RoboForce** | Machine Learning Engineer Intern, AI & Robotics | Milpitas, CA |  | [Apply](https://www.useno.app/internship/greenhouse%3Aroboforce%3A5470001008?utm_source=github) | 7d |
-| **SpartanNash** | Business Development & Analytics Intern - Summer 2027 | Norfolk, Virginia | $20/hr | [Apply](https://www.useno.app/internship/workday%3Aspartannash%3AR90936?utm_source=github) | 7d |
 | **Augsburg University** | Student: AI Fellowship | Minneapolis, MN, United States | $16/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Aaugsburg-university%3A744000159257894?utm_source=github) | 8d |
 | **Fenwick & West** | AI Enablement Intern | Silicon Valley, New York, Boston + 4 more | $21-25/hr | [Apply](https://www.useno.app/internship/workday%3Afenwick-and-west%3AR2987?utm_source=github) | 8d |
 | **Intuitive Surgical** | AI/ML Engineer Intern | Sunnyvale, CA, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Aintuitive-surgical%3A744000159218439?utm_source=github) | 8d |
@@ -314,12 +312,8 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Alberta Investment Management Corporation (AIMCo)** | Intern, Quantitative Analytics & Reporting (12-months) | Edmonton, Calgary |  | [Apply](https://www.useno.app/internship/workday%3Aalberta-investment-management%3AJR100891?utm_source=github) | 14d |
 | **Allen Lund Company** | Intern (Tech/AI) | IT, La Canada, CA, US | $20-30/hr | [Apply](https://www.useno.app/internship/adp%3Aallen-lund%3A9201280299162_1?utm_source=github) | 14d |
 | **Atoms** | AI Research Intern (BS/MS) | Mountain View, CA | $70/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aatoms%3A8919606002?utm_source=github) | 14d |
-| **Chase** | 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate | New York, NY, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Achase%3A210803983?utm_source=github) | 14d |
-| **Elanco** | US Pet Health - Sales Training and AI Enablement Intern | Indianapolis, IN | $20-40/hr | [Apply](https://www.useno.app/internship/workday%3Aelanco%3AR0027467?utm_source=github) | 14d |
-| **EQT Corporation** | AI Intern | Remote |  | [Apply](https://www.useno.app/internship/greenhouse%3Aeqt%3A5462562008?utm_source=github) | 14d |
 | **Mercor** | Research Engineer Intern - Environments, Data and Post-Training | San Francisco | $70/hr | [Apply](https://www.useno.app/internship/ashby%3Amercor%3A049bd532-6fb7-4ae6-85a1-788dd31a14ca?utm_source=github) | 14d |
 | **Newrez** | TRAIL Rising Leaders Program - Data & Analytics | PA, Fort Washington |  | [Apply](https://www.useno.app/internship/workday%3Anewrez%3AR10369?utm_source=github) | 14d |
-| **Olsson** | Mechanical Engineering Internship - Data Center Facilities | North Kansas City, MO |  | [Apply](https://www.useno.app/internship/greenhouse%3Aolsson%3A5465496008?utm_source=github) | 14d |
 | **Panther Life Sciences** | AI formulation Researcher Co-Op (Spring/Summer 2027) | Pittsburgh | $20-30/hr | [Apply](https://www.useno.app/internship/ashby%3Apanther-life-sciences%3A8839c97a-f28e-476b-936e-e441e551f149?utm_source=github) | 14d |
 | **SageSure** | Data Science Product Analyst Intern | Fairfield, California, United States |  | [Apply](https://www.useno.app/internship/greenhouse%3Asagesure%3A4719503006?utm_source=github) | 14d |
 | **Nielsen** | Student Job - Football Data Entry Clerk | Utrecht, UT, Netherlands |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Anielsen%3A3743990016398716?utm_source=github) | 15d |
@@ -353,6 +347,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Apptronik** | CoRL 2026 - Robotics & AI Talent | Austin, Texas & Sunnyvale, California |  | [Apply](https://www.useno.app/internship/greenhouse%3Aapptronik%3A6226572004?utm_source=github) | 25d |
 | **Children's Minnesota** | Data Scientist Intern | Remote - Nationwide | $70/hr | [Apply](https://www.useno.app/internship/workday%3Achildren-s-minnesota%3AR048077?utm_source=github) | 25d |
 | **Eulerity** | Product Marketing Intern - AI & Automation | New York, NY | $18-20/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aeulerity%3A4722805006?utm_source=github) | 25d |
+| **HOOPP** | Analyst, Data Science & Analytics, Student Intern (Winter 2027 - 4 or 8 Months) | Toronto, Ontario, Canada | CA$24-35/hr | [Apply](https://www.useno.app/internship/workday%3Ahoopp%3AJR102533?utm_source=github) | 25d |
 | **LG AI Research** | AI Engineer Internship - Agentic AI (Backend) | Gangseo-gu, Seoul, South Korea |  | [Apply](https://www.useno.app/internship/greenhouse%3Alg-ai-research%3A4744424005?utm_source=github) | 25d |
 | **NewsBreak** | Short Drama Creative Editor Intern | Mountain View, California, United States |  | [Apply](https://www.useno.app/internship/greenhouse%3Anewsbreak%3A4722490006?utm_source=github) | 25d |
 | **QuEra Computing** | QPU Build Co-Op – Optics & Data Analysis | Boston, MA, USA |  | [Apply](https://www.useno.app/internship/greenhouse%3Aquera-computing%3A5455950008?utm_source=github) | 25d |
@@ -362,6 +357,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Susquehanna International Group (SIG)** | Business Analytics AI Co-op with Drexel University | Bala Cynwyd (Philadelphia Area), PA, US |  | [Apply](https://www.useno.app/internship/icims%3Asusquehanna-international%3A11675?utm_source=github) | 26d |
 | **Tower Research Capital** | Machine Learning Intern | Montreal |  | [Apply](https://www.useno.app/internship/greenhouse%3Atowerresearch%3A7077280?utm_source=github) | 26d |
 | **Astreya** | AI Infrastructure DC Design Intern | Remote, CA | $16-25/hr | [Apply](https://www.useno.app/internship/workday%3Aastreya%3AR0017931?utm_source=github) | 27d |
+| **Chase** | 2027 AI Research Associate Program - Internship | New York, NY, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Achase%3A210800354?utm_source=github) | 27d |
 | **Later** | Data Science Co-op | Vancouver, British Columbia, Canada |  | [Apply](https://www.useno.app/internship/greenhouse%3Alater%3A8889650002?utm_source=github) | 27d |
 | **MacKay** | Land Survey Intern - Summer 2027 | Roseville, CA | $20-23/hr | [Apply](https://www.useno.app/internship/greenhouse%3Amackay%3A4430354009?utm_source=github) | 27d |
 | **Point72** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | $63-84/hr | [Apply](https://www.useno.app/internship/greenhouse%3Apoint72%3A8885299002?utm_source=github) | 27d |
@@ -386,6 +382,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Invesco** | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | [Apply](https://www.useno.app/internship/workday%3Ainvesco%3AR-15876?utm_source=github) | 5d |
 | **ROCKWOOL Group** | Associate Product Management Intern - Full-time/Onsite | Chicago, Illinois | $22-25/hr | [Apply](https://www.useno.app/internship/workday%3Arockwool%3AR0036805?utm_source=github) | 5d |
 | **S&B USA Construction & Fay** | Marketing/Graphic Design Intern | Pittsburgh, Pennsylvania, United States |  | [Apply](https://www.useno.app/internship/greenhouse%3As-and-b-usa-construction-and-fay%3A5474111008?utm_source=github) | 5d |
+| **Sanofi** | 2027 Spring Co-op Virology NA - Global Antigen Design | Waltham, MA | $27-60/hr | [Apply](https://www.useno.app/internship/workday%3Asanofi%3AR2855490?utm_source=github) | 5d |
 | **Stripe** | Product Design Intern | San Francisco, Seattle, New York City |  | [Apply](https://www.useno.app/internship/greenhouse%3Astripe%3A8332681?utm_source=github) | 5d |
 | **Whoop** | Industrial Design Co-Op | Boston, MA; Boston | $26-30/hr | [Apply](https://www.useno.app/internship/ashby%3Awhoop-2%3A0c03bbcf-cf2b-4f82-950f-d7477e7c041a?utm_source=github) | 5d |
 | **CWILL** | Returns & Exchanges Product Management Trainee - Bilingual Mandarin Requir | cary, North Carolina, United States |  | [Apply](https://www.useno.app/internship/workable%3Acwill%3ADD1A0BECB1?utm_source=github) | 6d |
@@ -401,17 +398,17 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **CapTech Consulting** | Consulting Internship: UX/Product Design (Summer 2027) | Richmond, VA, United States | $30/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Acaptech-consulting%3A744000159182656?utm_source=github) | 8d |
 | **Egis Group** | Aviation Design Intern | Oklahoma City, OK, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Aegis%3A744000159182284?utm_source=github) | 8d |
 | **Golden Hippo®** | Visual Design Intern - Spring 2027 | Remote | $60/hr | [Apply](https://www.useno.app/internship/greenhouse%3Agolden-hippo%3A4748701005?utm_source=github) | 8d |
+| **Olsson** | Structural Engineering Internship - Bridge | Omaha, NE |  | [Apply](https://www.useno.app/internship/greenhouse%3Aolsson%3A5469628008?utm_source=github) | 8d |
 | **Rambus** | Intern - Digital Design | Johns Creek, GA, US |  | [Apply](https://www.useno.app/internship/icims%3Arambus%3A23113?utm_source=github) | 8d |
 | **Broadcom** | Physical Design Engineer | USA-CA San Jose Innovation Drive | $40-63/hr | [Apply](https://www.useno.app/internship/workday%3Abroadcom%3AR027588?utm_source=github) | 10d |
 | **Revvity** | UX Intern | CAD Remote – ON |  | [Apply](https://www.useno.app/internship/workday%3Arevvity%3AJR-043675?utm_source=github) | 11d |
 | **Hasbro** | 2027 Spring - Electrical Engineering Co-op (Jan - July 2027) | Boston, Massachusetts, United States | $31-35/hr | [Apply](https://www.useno.app/internship/greenhouse%3Ahasbro%3A4472128009?utm_source=github) | 12d |
+| **Keenfinity Group** | Visual Content & Media Design Intern (February 2027) | Eindhoven, NB, Netherlands |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Akeenfinity%3A744000158594078?utm_source=github) | 12d |
 | **Ameren** | Workplace Design Spring Co-Op | St. Louis, MO | $21-30/hr | [Apply](https://www.useno.app/internship/workday%3Aameren%3A033788?utm_source=github) | 13d |
 | **ShyftLabs** | Graphic Design Intern | Toronto, Ontario |  | [Apply](https://www.useno.app/internship/lever%3Ashyftlabs%3Ab9de405d-1a6b-401e-b093-6a6f81d1ecde?utm_source=github) | 13d |
 | **STR** | Graphic Design & Technical Communications Co-Op | Woburn, MA | $25-54/hr | [Apply](https://www.useno.app/internship/greenhouse%3Astr%3A4725252006?utm_source=github) | 13d |
 | **Tenstorrent** | GTM (FAE & Customer Success) and Product Intern | Santa Clara, Toronto |  | [Apply](https://www.useno.app/internship/greenhouse%3Atenstorrent-2%3A5274249007?utm_source=github) | 13d |
 | **Timmons Group** | Civil Engineering Internship - Summer 2027 | Columbia, SC, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Atimmons%3A744000158391809?utm_source=github) | 13d |
-| **Pape-Dawson** | Summer 2027 Internship - Landscape Design | Orlando - Palmetto, FL |  | [Apply](https://www.useno.app/internship/workday%3Apape-dawson%3AJR101633?utm_source=github) | 14d |
-| **Peak Energy** | Electrical Design Engineer Intern (Spring 2027) | Burlingame, California | $30-35/hr | [Apply](https://www.useno.app/internship/greenhouse%3Apeak-energy%3A5272533007?utm_source=github) | 14d |
 | **ServiceNow** | Experience Team – Associate Product Design Internships – Summer 2027 | San Diego, CALIFORNIA, United States | $39-50/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Aservicenow%3A744000158130527?utm_source=github) | 14d |
 | **Stanley Consultants** | Student Intern 2027 - Transportation Design | West Palm Beach, FL |  | [Apply](https://www.useno.app/internship/lever%3Astanley-consultants%3A9417e337-1386-481d-96dd-7bb73bd119e9?utm_source=github) | 14d |
 | **Stanley Consultants** | Engineer-In-Training 1 - 2027, Transportation Design | West Palm Beach, FL |  | [Apply](https://www.useno.app/internship/lever%3Astanley-consultants%3Ab377359d-cdc0-4e1f-b5e8-d7fff6de0eb8?utm_source=github) | 14d |
@@ -438,11 +435,13 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 
 | Company | Role | Location | Pay | Apply | Age |
 | --- | --- | --- | --- | :---: | --- |
+| **Clera** | Founders Associate Intern | San Francisco | $38-53/hr | [Apply](https://www.useno.app/internship/ashby%3Aclera%3A6fd99c50-da91-459c-bbb3-f2642e69f9a2?utm_source=github) | 2d |
 | **Alcoa** | Power Engineer | United States, IN, Newburgh |  | [Apply](https://www.useno.app/internship/workday%3Aalcoa%3AReq-38757?utm_source=github) | 3d |
 | **City and County of San Francisco** | San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Engineering Intern (Level 2) | San Francisco, CA, United States | $41/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Acity-and-county-of-san-francisco%3A3743990016714546?utm_source=github) | 3d |
 | **GE Vernova** | GE Vernova- Grid Engineering Internship - Summer 2027 | Bellevue | $21/hr | [Apply](https://www.useno.app/internship/workday%3Age-vernova%3AR5056820?utm_source=github) | 3d |
 | **Hypertherm Associates** | Mechanical Engineering Intern | New Brighton, MN |  | [Apply](https://www.useno.app/internship/workday%3Ahypertherm-associates%3AR4135?utm_source=github) | 3d |
 | **KLA** | Algorithm Engineering Intern | Ann Arbor, MI | $37-50/hr | [Apply](https://www.useno.app/internship/workday%3Akla%3A2641512?utm_source=github) | 3d |
+| **KLA** | Mechanical Engineer Intern | Milpitas, CA |  | [Apply](https://www.useno.app/internship/workday%3Akla%3A2643268?utm_source=github) | 3d |
 | **The Christman Company** | Assistant Project Engineer Intern - Summer 2027 | Mesquite, TX |  | [Apply](https://www.useno.app/internship/workday%3Achristman%3AR-100771?utm_source=github) | 3d |
 | **TTM Technologies** | Summer 2027 Engineering Intern | North Jackson, OH |  | [Apply](https://www.useno.app/internship/workday%3Attm%3AR18664?utm_source=github) | 3d |
 | **AECOM** | Construction Intern - AECOM Tishman | Boston, MA, United States | $16/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Aaecom%3A744000160257024?utm_source=github) | 4d |
@@ -450,7 +449,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Beckman Coulter Diagnostics** | Firmware Engineer Co-op | Indianapolis, Indiana, United States |  | [Apply](https://www.useno.app/internship/workday%3Abeckman-coulter-diagnostics%3AR1321509?utm_source=github) | 4d |
 | **Carrier** | General Engineering Intern - Summer | OH07: 3868 Congress Parkway, Richfield, OH, 44286 USA | $21-42/hr | [Apply](https://www.useno.app/internship/workday%3Acarrier%3A30221656?utm_source=github) | 4d |
 | **Caterpillar** | 2027 Part-Time Intern - Engineering | Pontiac, Illinois | $25-43/hr | [Apply](https://www.useno.app/internship/workday%3Acaterpillar%3AR0000399906?utm_source=github) | 4d |
-| **Clera** | GTM Intern | San Francisco | $23-35/hr | [Apply](https://www.useno.app/internship/ashby%3Aclera%3A0fdebd67-d314-4cbe-a7ec-75e00930ce62?utm_source=github) | 4d |
 | **Duke Energy** | Project Controls Internship - Summer 2027 | Charlotte, NC; Roxboro, NC; Lake Mary, FL |  | [Apply](https://www.useno.app/internship/workday%3Adukeenergy%3AR41180?utm_source=github) | 4d |
 | **Ensign-Bickford Aerospace & Defense Company** | Development Engineer Intern | Simsbury, CT | $21-28/hr | [Apply](https://www.useno.app/internship/workday%3Aensign-bickford-aerospace-and-defense%3AREQ107694?utm_source=github) | 4d |
 | **Entegris** | NPI Engineering Co-Op | Rockrimmon, Colorado Springs, CO | $20-30/hr | [Apply](https://www.useno.app/internship/workday%3Aentegris%3AREQ-14487?utm_source=github) | 4d |
@@ -498,6 +496,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Filevine** | Legal Research Intern (Part-Time) | United States |  | [Apply](https://www.useno.app/internship/lever%3Afilevine%3A2046eb01-af65-4e3e-9f43-8b2295273304?utm_source=github) | 5d |
 | **Flowserve Corporation** | Engineering Co-op | Houston, Texas |  | [Apply](https://www.useno.app/internship/workday%3Aflowserve%3AR-21092?utm_source=github) | 5d |
 | **Flowserve Corporation** | Engineering CoOp/Intern | Leduc, Canada |  | [Apply](https://www.useno.app/internship/workday%3Aflowserve%3AR-21051?utm_source=github) | 5d |
+| **Ford Motor Company** | Production Supervisor (Nights), Ford Energy | Glendale, KY, United States | $36-60/hr | [Apply](https://www.useno.app/internship/oracle-orc%3Aford%3A73922?utm_source=github) | 5d |
 | **GE HealthCare** | Surgery Field Engineer Apprentice -San Francisco Bay Area | Remote | $23-35/hr | [Apply](https://www.useno.app/internship/workday%3Age-healthcare%3AR4035260?utm_source=github) | 5d |
 | **General Matter** | Summer 2027 Internship - Field Engineer | Paducah, Kentucky, United States | $30-40/hr | [Apply](https://www.useno.app/internship/greenhouse%3Ageneral-matter%3A5473803008?utm_source=github) | 5d |
 | **GPA** | Intern, Manufacturing Intelligence | Ruston, LA, US |  | [Apply](https://www.useno.app/internship/adp%3Agpa%3A9200927958882_1?utm_source=github) | 5d |
@@ -537,6 +536,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Carpenter Technology Corporation** | Process Engineering Intern | Reading, PA | $21-25/hr | [Apply](https://www.useno.app/internship/workday%3Acarpenter%3A26978?utm_source=github) | 6d |
 | **Carpenter Technology Corporation** | Reliability Engineering Intern | Reading, PA | $21-25/hr | [Apply](https://www.useno.app/internship/workday%3Acarpenter%3A26976?utm_source=github) | 6d |
 | **Caterpillar** | Oil and Gas Project Application Engineering Intern | San Diego, California | $26-43/hr | [Apply](https://www.useno.app/internship/workday%3Acaterpillar%3AR0000403393?utm_source=github) | 6d |
+| **Ciena** | Hardware Engineering Co-op (Winter 2027) | Ottawa | CA$26-35/hr | [Apply](https://www.useno.app/internship/workday%3Aciena%3AR032054?utm_source=github) | 6d |
 | **Continental Group Sector ContiTech** | Product and Process Industrialization Intern (Onsite) | Auburn, Indiana, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Acontinental-sector-contitech%3A744000159732079?utm_source=github) | 6d |
 | **CoorsTek** | Process Engineering Intern | Hillsboro, OR | $22-26/hr | [Apply](https://www.useno.app/internship/workday%3Acoorstek%3AR-114211?utm_source=github) | 6d |
 | **Copart** | Network Engineering Intern | US Tech Infra/Ops 729 |  | [Apply](https://www.useno.app/internship/workday%3Acopart%3AJR110653?utm_source=github) | 6d |
@@ -556,8 +556,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Xcel Energy** | HS Student YAP Intern | Eau Claire, WI, 54702 | $17/hr | [Apply](https://www.useno.app/internship/workday%3Axcel-energy%3AJR116658?utm_source=github) | 6d |
 | **ALTEN Technology** | Test Engineer Power Electronics Traction Inverters | Newark, California, United States |  | [Apply](https://www.useno.app/internship/greenhouse%3Aalten%3A5282292007?utm_source=github) | 7d |
 | **Atmus Filtration Technologies** | Aftermarket Engineering Co-op Spring 2027/Summer 2027 | Cookeville, TN, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Aatmus-filtration%3A1918?utm_source=github) | 7d |
-| **Ciena** | Optical New Product Engineering Intern | Montreal | CA$25-34/hr | [Apply](https://www.useno.app/internship/workday%3Aciena%3AR032040?utm_source=github) | 7d |
-| **Cisco** | Hardware Engineer PhD Co-op - United States | San Jose, California, US |  | [Apply](https://www.useno.app/internship/workday%3Acisco%3A2025378?utm_source=github) | 7d |
 | **Consigli Construction Co., Inc.** | Estimating Intern (Summer 2027) | White Plains, New York, United States | $24-29/hr | [Apply](https://www.useno.app/internship/workable%3Aconsigli-construction%3AC49168C40F?utm_source=github) | 7d |
 | **Corteva** | Engineering Student Co-op | Midland, Michigan, United States |  | [Apply](https://www.useno.app/internship/workday%3Acorteva%3A247845W?utm_source=github) | 7d |
 | **Dauch** | Engineering College Co-op | Royal Oak, MI |  | [Apply](https://www.useno.app/internship/workday%3Adauch%3AJREQ-226200?utm_source=github) | 7d |
@@ -567,7 +565,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **General Dynamics Mission Systems** | Electrical Engineering Intern (FPGA) | Middletown, RI, US | $28/hr | [Apply](https://www.useno.app/internship/icims%3Aicims-gdms%3A76081?utm_source=github) | 7d |
 | **Hazen and Sawyer** | Structural Engineering Intern | 805 Seattle, WA, Seattle, WA, US | $26/hr | [Apply](https://www.useno.app/internship/adp%3Ahazen-and-sawyer%3A9200981893134_1?utm_source=github) | 7d |
 | **Intuitive Surgical** | Product Development Engineering Intern | Durham, NC, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Aintuitive-surgical%3A744000159519489?utm_source=github) | 7d |
-| **Keenfinity Group** | Product Launch Engineer I | Fairport, NY, United States | $38-42/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Akeenfinity%3A744000159384202?utm_source=github) | 7d |
 | **KPFF Consulting Engineers** | 2027 Structural Engineer Summer Internship - Current Juniors | Irvine, CA, United States | $30/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Akpff-consulting-engineers%3A3743990016592376?utm_source=github) | 7d |
 | **Loram** | Mechanical Engineering Intern | Hamel, MN, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Aloram%3A3743990016593745?utm_source=github) | 7d |
 | **LotusWorks** | Mechanical Commissioning Internship - Full Time | Sunnyvale, California, United States | $20-30/hr | [Apply](https://www.useno.app/internship/greenhouse%3Alotusworks%3A5026652101?utm_source=github) | 7d |
@@ -575,10 +572,8 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Ryan Companies US, Inc.** | Field Engineer Intern | Minneapolis |  | [Apply](https://www.useno.app/internship/workday%3Aryan-companies-us%3AR-102278?utm_source=github) | 7d |
 | **Schonfeld** | 2027 Legal Engineer Intern | New York, New York, United States | $41/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aschonfeld%3A8171776?utm_source=github) | 7d |
 | **SpaceX** | Optical Engineer, Satellites (Starlink) | Redmond, WA | $50-70/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aspacex%3A8924822002?utm_source=github) | 7d |
-| **SpaceX** | Space Lasers Engineer, Satellites (Starlink) | Redmond, WA | $50-70/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aspacex%3A8924818002?utm_source=github) | 7d |
 | **Stryker** | Quality Engineer, Co-op | Burnaby, British Columbia | CA$21-29/hr | [Apply](https://www.useno.app/internship/workday%3Astryker%3AR574020?utm_source=github) | 7d |
 | **Stryker** | Test R&D Engineer, Co-Op | Burnaby, British Columbia | CA$21-29/hr | [Apply](https://www.useno.app/internship/workday%3Astryker%3AR576084?utm_source=github) | 7d |
-| **The Christman Company** | Estimating Engineer Intern - Summer 2027 | Sterling, VA | $23/hr | [Apply](https://www.useno.app/internship/workday%3Achristman%3AR-100661?utm_source=github) | 7d |
 | **Theocc** | Year-Round Intern - Desktop Engineering | Chicago - 125 S Franklin | $25/hr | [Apply](https://www.useno.app/internship/workday%3Atheocc%3AREQ-4847?utm_source=github) | 7d |
 | **TRIMEDX** | Biomedical Engineering Intern | Pittsburgh, PA |  | [Apply](https://www.useno.app/internship/workday%3Atrimedx%3AR15290?utm_source=github) | 7d |
 | **Westlake** | Process Control Engineer Intern (Summer 2027) | US - Calvert City, KY |  | [Apply](https://www.useno.app/internship/workday%3Awestlake%3AR33711?utm_source=github) | 7d |
@@ -607,10 +602,13 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Spaceium Inc. (YC S24)** | Electrical Intern (Summer 27) | Ottawa, Canada |  | [Apply](https://www.useno.app/internship/greenhouse%3Aspaceium%3A4475283009?utm_source=github) | 9d |
 | **Spaceium Inc. (YC S24)** | Mechanical Intern (Summer 27) | Ottawa, Canada |  | [Apply](https://www.useno.app/internship/greenhouse%3Aspaceium%3A4475285009?utm_source=github) | 9d |
 | **Pima County** | Engineering Intern - Regional Wastewater Reclamation | Tucson, AZ | $17-20/hr | [Apply](https://www.useno.app/internship/workday%3Apima-county%3AJR104770?utm_source=github) | 10d |
+| **Anduril Industries** | Fall 2027 Manufacturing Engineer Co-op | Ashville, Quincy, Santa Ana | $28-45/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aanduril%3A5280611007?utm_source=github) | 11d |
 | **Apex Companies** | Transportation Engineering Co-op (Spring 2027) | Quincy, MA | $28-29/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aapex-companies%3A5459108008?utm_source=github) | 11d |
 | **BD (Becton Dickinson)** | Molding Reliability Engineering Intern | USA NE - Columbus (Molding Center) |  | [Apply](https://www.useno.app/internship/workday%3Abd%3AR-559082?utm_source=github) | 11d |
+| **CarMax** | Process Engineer Intern | Corporate - Richmond | $23-35/hr | [Apply](https://www.useno.app/internship/workday%3Acarmax%3AJR-189094?utm_source=github) | 11d |
 | **CHAOS Industries** | Antenna Engineer | El Segundo, California, United States | $66-74/hr | [Apply](https://www.useno.app/internship/greenhouse%3Achaos-industries%3A5280525007?utm_source=github) | 11d |
 | **Fujifilm** | Production Planner | North Kingstown, RI, US |  | [Apply](https://www.useno.app/internship/icims%3Afujifilm%3A39062?utm_source=github) | 11d |
+| **GE Appliances** | Mechanical Engineering Co-op\_Summer 2027 | USA, Louisville, KY |  | [Apply](https://www.useno.app/internship/workday%3Age-appliances%3AREQ-26428?utm_source=github) | 11d |
 | **Hargrove Engineers & Constructors** | Controls + Automation Engineering Co-Op | Houston, TX |  | [Apply](https://www.useno.app/internship/workday%3Ahargrove-engineers-and-constructors%3A2026-001275?utm_source=github) | 11d |
 | **Loenbro** | Apprentice Electrical | New Mexico |  | [Apply](https://www.useno.app/internship/greenhouse%3Aloenbro%3A4474299009?utm_source=github) | 11d |
 | **Nordson Corporation** | Manufacturing Engineering Intern | USA - New Hampshire - Salem |  | [Apply](https://www.useno.app/internship/workday%3Anordson%3AREQ53029?utm_source=github) | 11d |
@@ -631,6 +629,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Lunar Energy** | Hardware Test Engineering Intern | Mountain View, CA | $30-40/hr | [Apply](https://www.useno.app/internship/greenhouse%3Alunar-energy%3A6237015004?utm_source=github) | 12d |
 | **Marathon Petroleum Corporation** | Process Optimization Engineer I - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion) | Denver, Colorado | $45-67/hr | [Apply](https://www.useno.app/internship/workday%3Amarathon-petroleum%3A00024744?utm_source=github) | 12d |
 | **Medline** | Engineering Co-Op (January-May 2027) | Glens Falls, New York; University Recruiting | $21-31/hr | [Apply](https://www.useno.app/internship/workday%3Amedline%3AR2616936?utm_source=github) | 12d |
+| **Pape-Dawson** | Engineer Intern | Sarasota, FL |  | [Apply](https://www.useno.app/internship/workday%3Apape-dawson%3AJR101791?utm_source=github) | 12d |
 | **PTC** | Arena Engineering Intern (Summer 2027) | USA-San Mateo, CA | $32-36/hr | [Apply](https://www.useno.app/internship/workday%3Aptc%3AJR112955?utm_source=github) | 12d |
 | **Rendezvous Robotics** | Manufacturing and Test Engineering Intern (Summer 2027) | Golden, CO |  | [Apply](https://www.useno.app/internship/greenhouse%3Arendezvous-robotics%3A4408588009?utm_source=github) | 12d |
 | **Renesas Electronics** | Associate Field Applications Engineer (FAE) | San Jose, CALIFORNIA, United States | $36-43/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Arenesas-electronics%3A744000158550659?utm_source=github) | 12d |
@@ -652,24 +651,18 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Xylem** | Manufacturing Engineer | Cheektowaga, New York | $35-41/hr | [Apply](https://www.useno.app/internship/workday%3Axylem%3ANew%20York?utm_source=github) | 13d |
 | **Affirm** | Product Security Engineer II - IAM | Remote Canada | CA$64-88/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aaffirm%3A8016932003?utm_source=github) | 14d |
 | **Alcon** | Spring/Summer 2027 Engineering Co-op | Johns Creek, Georgia |  | [Apply](https://www.useno.app/internship/workday%3Aalcon%3AR-2026-50574?utm_source=github) | 14d |
-| **Anduril Industries** | Materials and Process Engineer, Air Dominance and Strike | Costa Mesa, California, United States | $49-65/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aanduril%3A5275994007?utm_source=github) | 14d |
 | **Areté** | Mechanical Engineering Intern | Falls Church, VA, US | $30-35/hr | [Apply](https://www.useno.app/internship/adp%3Aaret%3A9201085283041_46?utm_source=github) | 14d |
 | **Baxter International** | Co-op Engineering R&D | Skaneateles, NY | $26-28/hr | [Apply](https://www.useno.app/internship/workday%3Abaxter-international%3AJR%20-%20211010?utm_source=github) | 14d |
 | **Fervo Energy** | Legal Intern | Houston, TX |  | [Apply](https://www.useno.app/internship/greenhouse%3Afervo-energy%3A4464038009?utm_source=github) | 14d |
 | **Fourth Power** | Spring 2027 Mechanical Engineering & Materials Science Co-Op | Bedford, MA; Bedford; Middleton, MA + 1 more | $22-28/hr | [Apply](https://www.useno.app/internship/ashby%3Afourth-power%3A3137ba54-2121-45e5-b2dc-cfd7e3601104?utm_source=github) | 14d |
-| **GE Appliances** | Engineering/Manufacturing Co-op\_Fall 2027 | USA, Louisville, KY |  | [Apply](https://www.useno.app/internship/workday%3Age-appliances%3AREQ-26589?utm_source=github) | 14d |
-| **Globus Medical** | Associate Project Engineer, Sustaining | Audubon, PA |  | [Apply](https://www.useno.app/internship/workday%3Aglobus-medical%3AJR103841?utm_source=github) | 14d |
 | **Greystone** | Full Stack Engineer Intern - Summer 2027 | Warrenton, VA |  | [Apply](https://www.useno.app/internship/workday%3Agreystone%3AJR0000145?utm_source=github) | 14d |
 | **Houston Engineering, Inc.** | Civil Engineer Intern | Iowa City, IA, United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Ahouston-engineering%3A744000158042166?utm_source=github) | 14d |
 | **HP IQ** | Electrical Engineering Intern, Hardware (Summer 2027) | San Francisco, CA | $40-50/hr | [Apply](https://www.useno.app/internship/greenhouse%3Ahp-iq%3A6116396004?utm_source=github) | 14d |
 | **HP IQ** | Engineering Intern, Wireless Automation and Test (Summer 2027) | San Francisco, CA | $40-50/hr | [Apply](https://www.useno.app/internship/greenhouse%3Ahp-iq%3A6114741004?utm_source=github) | 14d |
-| **Ingredion Incorporated** | Process Engineering Co-Op (Jan-Aug) - Cedar Rapids, IA | Cedar Rapids, IA | $22-34/hr | [Apply](https://www.useno.app/internship/workday%3Aingredion%3AReq-40429?utm_source=github) | 14d |
 | **Mercor** | Research Engineer, Intern – Benchmarking | San Francisco | $70/hr | [Apply](https://www.useno.app/internship/ashby%3Amercor%3A2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae?utm_source=github) | 14d |
 | **nVent** | Mechanical Drafter/Designer Intern | Anoka, MN, US | $25/hr | [Apply](https://www.useno.app/internship/workday%3Anvent%3AR22089?utm_source=github) | 14d |
 | **Royal Caribbean Group** | Associate Civil Engineer Intern | Lafayette, Louisiana |  | [Apply](https://www.useno.app/internship/bamboohr%3Aroyal-caribbean%3A118?utm_source=github) | 14d |
-| **The Chemours Company** | Chemical Engineering Spring Co-op | US - TN - New Johnsonville |  | [Apply](https://www.useno.app/internship/workday%3Achemours%3AJR14977?utm_source=github) | 14d |
 | **TSC** | Computer/Electrical Engineer I | Bloomington, IN |  | [Apply](https://www.useno.app/internship/workday%3Atsc%3AJR2883?utm_source=github) | 14d |
-| **Wing** | Hardware Test Engineering Intern | Palo Alto, California |  | [Apply](https://www.useno.app/internship/greenhouse%3Awing%3A8918078002?utm_source=github) | 14d |
 | **AVEVA** | Commercial Graduate (Cust Exper) - Mechanical/Industrial/Electric Engr Majors | Houston, Texas, United States of America | $34-56/hr | [Apply](https://www.useno.app/internship/workday%3Aaveva%3AR014944?utm_source=github) | 15d |
 | **Badger Meter** | Mechanical Engineering NPD Intern | US - WI - Milwaukee HQ |  | [Apply](https://www.useno.app/internship/workday%3Abadger-meter%3A4642?utm_source=github) | 15d |
 | **Clark Dietz, Inc.** | 2027 Engineering Talent | New York City |  | [Apply](https://www.useno.app/internship/ashby%3Aclark-dietz%3Ae62f6ecd-48a2-42fa-8725-599673e354d5?utm_source=github) | 15d |
@@ -694,6 +687,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **DoorDash** | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | $43-63/hr | [Apply](https://www.useno.app/internship/greenhouse%3Adoordash%3A8313401?utm_source=github) | 19d |
 | **Marvin** | Spring 2027 Manufacturing Engineer Intern | Kansas City, KS, US | $30/hr | [Apply](https://www.useno.app/internship/icims%3Amarvin%3A11186?utm_source=github) | 19d |
 | **Milwaukee Tool** | Platform Engineer - Digital Measurement | Milwaukee, WI |  | [Apply](https://www.useno.app/internship/workday%3Amilwaukee-tool%3AR78704?utm_source=github) | 19d |
+| **Peak Energy** | Test Engineer Intern, ESS (Summer 2027) | Burlingame, California | $35/hr | [Apply](https://www.useno.app/internship/greenhouse%3Apeak-energy%3A5272578007?utm_source=github) | 19d |
 | **SSR Mining Inc.** | Metallurgical Engineer Intern | Valmy, NV |  | [Apply](https://www.useno.app/internship/workday%3Assr-mining%3AR3600?utm_source=github) | 19d |
 | **Alarm.com** | Test Engineer I - RF/EMC | Tysons, Virginia | $37-46/hr | [Apply](https://www.useno.app/internship/greenhouse%3Aalarm-com%3A8888033002?utm_source=github) | 20d |
 | **Ascend Performance Materials** | Summer 2027 Engineering Intern | Houston, TX; Foley, AL; Pensacola, FL + 2 more |  | [Apply](https://www.useno.app/internship/workday%3Aascend-performance-materials%3AR0005785?utm_source=github) | 20d |
@@ -733,6 +727,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **ONEOK** | Instrumentation and Electrical Technician Intern | Mont Belvieu, TX |  | [Apply](https://www.useno.app/internship/workday%3Aoneok%3AR8439?utm_source=github) | 22d |
 | **Reflect Orbital** | IT Support Specialist Intern | Hawthorne, CA; Hawthorne | $27-31/hr | [Apply](https://www.useno.app/internship/ashby%3Areflect-orbital%3A8f4f8e74-b386-41b4-8154-7e5e50a34205?utm_source=github) | 22d |
 | **The Wonderful Company** | Advanced Manufacturing Engineer | Del Rey, CA, United States | $65/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Awonderful%3A744000156425250?utm_source=github) | 22d |
+| **The Chemours Company** | Maintenance Engineer - Mechanical | US - WV - Parkersburg |  | [Apply](https://www.useno.app/internship/workday%3Achemours%3AJR15133?utm_source=github) | 24d |
 | **Aliaxis** | Manufacturing Excellence Co-Op Student, Winter 2027\*\*\*Etudiant Coop excellence manufacturière, Hiver 2027 | CA - Oakville 3 - Office | $25/hr | [Apply](https://www.useno.app/internship/workday%3Aaliaxis%3AR-58664?utm_source=github) | 25d |
 | **ARCO National Construction Company** | Mechanical Engineer Intern | Richmond Heights, MO, US |  | [Apply](https://www.useno.app/internship/greenhouse%3Aarco-national-construction%3A4456159009?utm_source=github) | 25d |
 | **California Closets** | Installation Technician - Apprentice | Brisbane, CA, United States | $26/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Acalifornia-closets%3A744000156052277?utm_source=github) | 25d |
@@ -759,6 +754,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Nomagic** | Engineering and Commercial Intern | Atlanta |  | [Apply](https://www.useno.app/internship/lever%3Anomagic%3A53672f09-541e-4037-8370-137abab635c1?utm_source=github) | 26d |
 | **Techtronic Industries (TTI)** | Project Engineer 1 - Value Engineering | Anderson, SC |  | [Apply](https://www.useno.app/internship/workday%3Atechtronic-industries%3AR78688?utm_source=github) | 26d |
 | **ANS** | Lab Engineer (Intern) | Alvarado, TX | $18-22/hr | [Apply](https://www.useno.app/internship/lever%3Aans%3A3700266c-cbf2-4735-893a-f73d34be5862?utm_source=github) | 27d |
+| **EQT Corporation** | Civil Engineering Services Intern | Canonsburg, PA |  | [Apply](https://www.useno.app/internship/greenhouse%3Aeqt%3A5450028008?utm_source=github) | 27d |
 | **Tokyo Electron** | Process Engineer Summer 2027 Intern | San Jose |  | [Apply](https://www.useno.app/internship/workday%3Atokyo-electron%3AR26-01530?utm_source=github) | 27d |
 | **Walker Consultants** | Structural Engineering Internship - Summer 2027 | Bellevue, WA | $24-30/hr | [Apply](https://www.useno.app/internship/lever%3Awalker-consultants%3Ad5e81817-73c6-4055-a3f8-dfb9bbe119b8?utm_source=github) | 27d |
 | **Zone 5 Technologies** | Electrical Engineer I/II | Fort Walton Beach; Fort Worth, Texas; San Luis Obispo | $45-54/hr | [Apply](https://www.useno.app/internship/greenhouse%3Azone-5%3A5451759008?utm_source=github) | 27d |
@@ -767,6 +763,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **CWILL** | Loyalty & Referrals R&D Trainee - Full-Stack Engineer - Bilingual Mandarin | cary, North Carolina, United States |  | [Apply](https://www.useno.app/internship/workable%3Acwill%3A3DE00A2E99?utm_source=github) | 28d |
 | **DataRobot** | Deep Learning Research Engineer Intern | Boston; Massachusetts, US - Remote |  | [Apply](https://www.useno.app/internship/workday%3Adatarobot%3AR-102754?utm_source=github) | 28d |
 | **Field AI** | Robotics Research, Robot Learning & Manipulation Intern (Spring, Summer, & Fall 2027) | Irvine, CA |  | [Apply](https://www.useno.app/internship/lever%3Afield-ai%3Ab37569c3-d07f-4968-82dc-44020f34e54e?utm_source=github) | 28d |
+| **Globus Medical** | 2027 Co-Op & Internship, Project Engineer | Audubon, PA |  | [Apply](https://www.useno.app/internship/workday%3Aglobus-medical%3AJR108109?utm_source=github) | 28d |
 | **Muon Space** | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | $40/hr | [Apply](https://www.useno.app/internship/greenhouse%3Amuon-space%3A5256288007?utm_source=github) | 28d |
 | **Syska Hennessy Group** | Mechanical Engineer Summer Intern | Tampa, FL | $22-24/hr | [Apply](https://www.useno.app/internship/greenhouse%3Asyska-hennessy%3A8267624?utm_source=github) | 28d |
 | **Wade Trim** | Engineer Summer Intern - #3075 | Atlanta, GA; Buford, GA |  | [Apply](https://www.useno.app/internship/lever%3Awade-trim%3Afdbb72e3-1271-430f-90ee-3501b66afd8e?utm_source=github) | 28d |
@@ -787,6 +784,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 
 | Company | Role | Location | Pay | Apply | Age |
 | --- | --- | --- | --- | :---: | --- |
+| **Aecon** | Assistant Coordinator - Risk Management Co-op | Toronto, ON, CA | CA$23-28/hr | [Apply](https://www.useno.app/internship/successfactors%3Aaecon%3A606050817?utm_source=github) | 2d |
 | **iA Financial Group (Industrial Alliance)** | Intern – Artificial Intelligence, Automation and Operational Efficiency | Quebec, Quebec; Montreal, Quebec; Vancouver, British Columbia | CA$27/hr | [Apply](https://www.useno.app/internship/workday%3Aia-financial%3AJR10027592?utm_source=github) | 3d |
 | **iA Financial Group (Industrial Alliance)** | Student - Branch Coordinator | Quebec, Quebec; Montreal, Quebec; Toronto, Ontario | CA$24-28/hr | [Apply](https://www.useno.app/internship/workday%3Aia-financial%3AJR10027587?utm_source=github) | 3d |
 | **Ingredion Incorporated** | Global Operations Finance Intern | Westchester, IL | $20-23/hr | [Apply](https://www.useno.app/internship/workday%3Aingredion%3AReq-40191?utm_source=github) | 3d |
@@ -811,9 +809,8 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **TruStage** | Actuarial Analyst (Hybrid) | Madison, WI | $29-51/hr | [Apply](https://www.useno.app/internship/workday%3Atrustage%3AR-012261?utm_source=github) | 4d |
 | **Voya Financial** | Summer Intern – Renewable Energy Infrastructure Debt | New York, NY | $23/hr | [Apply](https://www.useno.app/internship/workday%3Avoya-financial%3AJR0033386?utm_source=github) | 4d |
 | **Adobe** | 2027 Intern - FP&A Finance & Reporting | San Jose | $25-30/hr | [Apply](https://www.useno.app/internship/workday%3Aadobe%3AR173005?utm_source=github) | 5d |
-| **BMO** | U.S. Banking Ignite Internship Program - Summer 2027 | Chicago, IL, USA | $22-36/hr | [Apply](https://www.useno.app/internship/workday%3Abmo%3AR260030865?utm_source=github) | 5d |
 
-**[See all 138 Finance & Banking internships on Useno](https://www.useno.app/internships/finance?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
+**[See all 141 Finance & Banking internships on Useno](https://www.useno.app/internships/finance?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
 
 ## Consulting Internships
 
@@ -848,6 +845,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **CVS Health** | Indirect Tax Corporate Internship - Summer 2027 (Undergraduate) | RI - Cumberland | $26/hr | [Apply](https://www.useno.app/internship/workday%3Acvshealth%3AR1069264?utm_source=github) | 3d |
 | **MSIG USA** | Internal Audit Intern | NJ-Warren | $25/hr | [Apply](https://www.useno.app/internship/workday%3Amsig-usa%3AJR-001117?utm_source=github) | 3d |
 | **TIAA** | 2027 Early Talent Internship: Internal Audit | Charlotte, Chicago, Dallas | $22/hr | [Apply](https://www.useno.app/internship/workday%3Atiaa%3AR261000123?utm_source=github) | 3d |
+| **American Electric Power** | Accounting Intern - Spring Semester 2027 | Columbus, OH |  | [Apply](https://www.useno.app/internship/workday%3Aamerican-electric-power%3AR20920?utm_source=github) | 4d |
 | **Daimler Truck** | Asset, Inventory and Travel Accounting Intern | Portland, OR US | $21-29/hr | [Apply](https://www.useno.app/internship/workday%3Adaimler-truck%3ADT-20611?utm_source=github) | 4d |
 | **Entegris** | Internal Audit Co-Op | Billerica, MA | $20-30/hr | [Apply](https://www.useno.app/internship/workday%3Aentegris%3AREQ-14475?utm_source=github) | 4d |
 | **Genworth** | Accounting Intern | Raleigh, North Carolina |  | [Apply](https://www.useno.app/internship/workday%3Agenworth%3AREQ-260366?utm_source=github) | 4d |
@@ -867,16 +865,20 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **UHY-US** | 2027 Tax Winter Internship - Quad Cities | Bettendorf, IA |  | [Apply](https://www.useno.app/internship/workday%3Auhy-us%3AJR102318?utm_source=github) | 5d |
 | **Wipfli** | Tax Internship - Spring 2028 | Chicago, IL, US | $33/hr | [Apply](https://www.useno.app/internship/icims%3Awipfli%3A8318?utm_source=github) | 5d |
 | **ZOLL Medical Corporation** | Product Quality Assurance Engineer | Chelmsford, MA | $40-43/hr | [Apply](https://www.useno.app/internship/workday%3Azoll-medical%3AR19650?utm_source=github) | 5d |
+| **BDO USA** | Tax Intern, Core Tax Services - Summer 2028 (Dallas) | Dallas, TX, United States | $40/hr | [Apply](https://www.useno.app/internship/oracle-orc%3Abdo-usa%3A13392?utm_source=github) | 6d |
 | **Current Advisors** | 2027 Audit Internship - Wenatchee | Wenatchee | $26/hr | [Apply](https://www.useno.app/internship/ashby%3Acurrent-advisors%3A97b72a09-bdb1-4b8c-a727-9983ba0efed8?utm_source=github) | 6d |
-| **Overhead Solutions Group** | Accounting Intern, Client Site Support | Gurnee, Illinois |  | [Apply](https://www.useno.app/internship/bamboohr%3Aoverhead-solutions%3A48?utm_source=github) | 6d |
-| **University of Pikeville** | WS - Spring Term - INTERNSHIP – Faith Tax –Income Tax Preparer/Accounting - IWS | Pikeville, Kentucky |  | [Apply](https://www.useno.app/internship/bamboohr%3Auniversity-of-pikeville%3A600?utm_source=github) | 6d |
 
-**[See all 76 Accounting internships on Useno](https://www.useno.app/internships/accounting?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
+**[See all 75 Accounting internships on Useno](https://www.useno.app/internships/accounting?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
 
 ## Business, Operations & Strategy Internships
 
 | Company | Role | Location | Pay | Apply | Age |
 | --- | --- | --- | --- | :---: | --- |
+| **Blue Origin** | Buyer - Supply Chain | Greater Seattle Area; Space Coast, FL | $31-43/hr | [Apply](https://www.useno.app/internship/workday%3Ablueorigin%3AR74544?utm_source=github) | 2d |
+| **Bristol Myers Squibb** | 2027 Summer Internship: Law & Leadership Program | Princeton - NJ - US | $30-35/hr | [Apply](https://www.useno.app/internship/workday%3Abristol-myers-squibb%3AR1608267?utm_source=github) | 2d |
+| **Clera** | Operations Intern | Salt Lake City | $20-25/hr | [Apply](https://www.useno.app/internship/ashby%3Aclera%3A5c1f661e-9c3a-4cca-bd47-ba792ded5f3b?utm_source=github) | 2d |
+| **Nebraska Medicine** | Student Nurse Technician (SNT) - Heart & Vascular Med/Surg (Nights) | Omaha, NE |  | [Apply](https://www.useno.app/internship/workday%3Anebraska-medicine%3AREQ-39995?utm_source=github) | 2d |
+| **PGA of America** | Championship Hospitality Services Assistant (Seasonal) | Frisco, TX |  | [Apply](https://www.useno.app/internship/workday%3Apga-of-america%3AR1737?utm_source=github) | 2d |
 | **Allison Transmission** | Operations Program Management Intern | Indianapolis, IN |  | [Apply](https://www.useno.app/internship/workday%3Aallison-transmission%3AR008422?utm_source=github) | 3d |
 | **American Lung Association** | Intern, Health Promotions | Remote, US |  | [Apply](https://www.useno.app/internship/adp%3Aamerican-lung-association%3A9200906284676_16?utm_source=github) | 3d |
 | **Amgen** | Grad Intern – Global Medical Affairs Oncology (Summer 2027) | United States - Remote | $35-41/hr | [Apply](https://www.useno.app/internship/workday%3Aamgen%3AR-260873?utm_source=github) | 3d |
@@ -892,16 +894,11 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **CVS Health** | General Management Corporate Internship - Summer 2027 (Undergraduate) | CT - Hartford, TX - Dallas, RI - Woonsocket | $26/hr | [Apply](https://www.useno.app/internship/workday%3Acvshealth%3AR1025480?utm_source=github) | 3d |
 | **GE Vernova** | GE Vernova Nuclear Canadian Licensing Intern - 12 Co-op | Markham | CA$26/hr | [Apply](https://www.useno.app/internship/workday%3Age-vernova%3AR5054215?utm_source=github) | 3d |
 | **Geisinger** | Pharmacy Technician - Inpatient | Wilkes-Barre, PA |  | [Apply](https://www.useno.app/internship/workday%3Ageisinger%3AR-15301?utm_source=github) | 3d |
+| **Geisinger** | Pharmacy Technician - per diem | Wilkes-Barre, PA |  | [Apply](https://www.useno.app/internship/workday%3Ageisinger%3AR-16123?utm_source=github) | 3d |
 | **Greystar** | Legal & Compliance Intern - Marketing Operations | Remote South Carolina, Remote Florida, Remote Texas + 2 more | $35/hr | [Apply](https://www.useno.app/internship/workday%3Agreystar%3AR1126_0205861?utm_source=github) | 3d |
 | **HUB International** | HUB International Internship Program Summer 2027 | Culver City - CA - 600 Corporate Pointe; Newport Beach, CA; Riverside, CA + 1 more | $18-20/hr | [Apply](https://www.useno.app/internship/workday%3Ahub-international%3AR0038856?utm_source=github) | 3d |
 | **Hy-Vee, Inc.** | Compensation Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | [Apply](https://www.useno.app/internship/workday%3Ahy-vee%3AR260884?utm_source=github) | 3d |
 | **Mayo Clinic** | Research Fellow - Education and Simulation - Rivera lab | Rochester, MN, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Amayo-clinic%3A394132?utm_source=github) | 3d |
-| **Mayo Clinic** | Research Fellow-PC Physical Medicine & Rehabilitation - Korupolu lab | Jacksonville, FL, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Amayo-clinic%3A395214?utm_source=github) | 3d |
-| **Mayo Clinic Healthcare London** | Research Fellow - Education and Simulation - Rivera lab | Rochester, MN, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Amayo-clinic-healthcare-london%3A394132?utm_source=github) | 3d |
-| **Mayo Clinic Healthcare London** | Research Fellow-PC Physical Medicine & Rehabilitation - Korupolu lab | Jacksonville, FL, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Amayo-clinic-healthcare-london%3A395214?utm_source=github) | 3d |
-| **Otis Elevator Co.** | Field Operations/Field Supervisor Interns | OT516: NPW - Landover, OT452: TMN - DENVER, OT407: TAO - MIAMI + 13 more | $25/hr | [Apply](https://www.useno.app/internship/workday%3Aotis-elevator%3AOT516%3A%20NPW%20-%20Landover%2C%20MD%205000%20Philadelphia%20Way%2C%20Lanham%2C%20MD%2C%2020706%20USA?utm_source=github) | 3d |
-| **Otis Elevator Co.** | Field Project Management Interns | OT423: TD - DALLAS, OT432: TH - Houston, OT227: GNJ - FAIRFIELD + 3 more | $22/hr | [Apply](https://www.useno.app/internship/workday%3Aotis-elevator%3AOT423%3A%20TD%20-%20DALLAS%2C%20TX%202421%20State%20Highway%20161%20Frontage%20Road%2C%20Irving%2C%20TX%2C%2075062%20USA?utm_source=github) | 3d |
-| **Select Medical** | Physical Therapist $10000 Sign on Bonus and Student Loan Assistance! | Stevens, PA |  | [Apply](https://www.useno.app/internship/icims%3Aselect-medical%3A389390?utm_source=github) | 3d |
 
 **[See all 869 Business, Operations & Strategy internships on Useno](https://www.useno.app/internships/business-operations-strategy?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
 
@@ -909,7 +906,6 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 
 | Company | Role | Location | Pay | Apply | Age |
 | --- | --- | --- | --- | :---: | --- |
-| **Clera** | Growth & Marketing Intern / New Grad | San Francisco |  | [Apply](https://www.useno.app/internship/ashby%3Aclera%3Abb423c6c-3d23-431f-875e-9240f17cb83b?utm_source=github) | 3d |
 | **NCR Voyix** | Sales Development Representative – Emerging Talent | ATLANTA, GA, USA |  | [Apply](https://www.useno.app/internship/workday%3Ancr-voyix%3AR0158821?utm_source=github) | 3d |
 | **Zebra Technologies** | 2027 Summer Internship (US) - Portfolio Marketing | Holtsville, New York | $24-26/hr | [Apply](https://www.useno.app/internship/workday%3Azebra%3AJR103615?utm_source=github) | 3d |
 | **Adobe** | 2027 Intern — Employee Communications | San Jose, San Francisco | $25-30/hr | [Apply](https://www.useno.app/internship/workday%3Aadobe%3AR173412?utm_source=github) | 4d |
@@ -934,8 +930,9 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **RNGD** | Marketing Internship (Paid) - Spring 2027 | Metairie, Louisiana |  | [Apply](https://www.useno.app/internship/bamboohr%3Arngd%3A550?utm_source=github) | 5d |
 | **Think Academy U.S** | Marketing Management Trainee (Content Growth & User Acquisition) | San Jose, CA | $38-48/hr | [Apply](https://www.useno.app/internship/greenhouse%3Athink-academy-u-s%3A8196356003?utm_source=github) | 5d |
 | **Veolia** | Communications Intern | Cary, NC, United States | $19-21/hr | [Apply](https://www.useno.app/internship/smartrecruiters%3Aveolia%3A744000159924554?utm_source=github) | 5d |
+| **Verizon Communications** | Verizon Consumer Group: Base Marketing Summer 2027 Internship | Basking Ridge, New Jersey | $25/hr | [Apply](https://www.useno.app/internship/workday%3Averizon-communications%3AR-1103456?utm_source=github) | 5d |
 
-**[See all 116 Marketing, Sales & Communications internships on Useno](https://www.useno.app/internships/marketing-sales-communications?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
+**[See all 115 Marketing, Sales & Communications internships on Useno](https://www.useno.app/internships/marketing-sales-communications?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
 
 ## Healthcare, Biotech & Life Sciences Internships
 
@@ -960,14 +957,14 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **The University of Kansas Health System** | Clinical Pharmacist | Olathe, KS |  | [Apply](https://www.useno.app/internship/workday%3Auniversity-of-kansas-health-system%3AR-41808?utm_source=github) | 7d |
 | **Beltone** | Apprenticeship -- Hearing Healthcare Professional | IA, Davenport |  | [Apply](https://www.useno.app/internship/workday%3Abeltone%3AR27568?utm_source=github) | 8d |
 | **Beth Israel Lahey Health** | Healthcare Navigator - Co-Op - Starts January 2027 | Beth Israel Lahey Health Performance Network; Maintenance, Boston | $17-19/hr | [Apply](https://www.useno.app/internship/workday%3Abeth-israel-lahey-health%3AJR105289?utm_source=github) | 8d |
+| **Nationwide Children's Hospital** | Clinical Pharmacist - Toledo Pharmacy (Evening Shift) | 2213 Cherry Street, Toledo, OH |  | [Apply](https://www.useno.app/internship/workday%3Anationwide-children-s-hospital%3AR-28677?utm_source=github) | 8d |
 | **Northwell Health** | Healthcare Management Program (HMP) Internship | New Hyde Park, Nassau, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Anorthwell-health%3A200929?utm_source=github) | 8d |
 | **Nemours Children's Health** | Child Life Specialist - Float (part-time) | Wilmington, DE, United States |  | [Apply](https://www.useno.app/internship/oracle-orc%3Anemours-children-s-health%3A20438?utm_source=github) | 11d |
 | **St. Jude Children's Research Hospital** | Sickle Cell Disease Clinical MD Fellow | Memphis, TN |  | [Apply](https://www.useno.app/internship/workday%3Ast-jude-children-s-research-hospital%3AJR6941?utm_source=github) | 12d |
 | **Youth Villages** | Spring 2027 Clinical Master's Level Paid Internship - Boston, MA | Dorchester/Boston, MA | $25/hr | [Apply](https://www.useno.app/internship/workday%3Ayouth-villages%3AJR4057?utm_source=github) | 12d |
 | **Centria Autism** | Clinical Apprentice - BCBA Fieldwork Program | Woodhaven, Michigan, United States | $18-23/hr | [Apply](https://www.useno.app/internship/greenhouse%3Acentria-autism%3A8921694002?utm_source=github) | 13d |
-| **Medcarepediatric** | Pediatric SLP Clinical Fellow (CFY) – Flexible Schedule | Baytown, Texas 77521 |  | [Apply](https://www.useno.app/internship/lever%3Amedcarepediatric%3Aa0136ea4-15f4-4ba8-a758-624e4a115d95?utm_source=github) | 13d |
 
-**[See all 33 Healthcare, Biotech & Life Sciences internships on Useno](https://www.useno.app/internships/healthcare-biotech?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
+**[See all 34 Healthcare, Biotech & Life Sciences internships on Useno](https://www.useno.app/internships/healthcare-biotech?utm_source=github&utm_medium=internship-list&utm_campaign=field)**
 
 ## Government, Policy & Public Sector Internships
 
@@ -981,6 +978,7 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 | **Antares Nuclear** | Government Affairs Intern | DC; DC, DC | $34/hr | [Apply](https://www.useno.app/internship/ashby%3Aantares-nuclear%3A0ba5a72f-35b5-451e-b05a-8f96c9d3101e?utm_source=github) | 10d |
 | **ACLU of Georgia** | Policy Internship | Atlanta, Georgia |  | [Apply](https://www.useno.app/internship/bamboohr%3Aaclu-of-georgia%3A41?utm_source=github) | 11d |
 | **WWF Mesoamérica** | Policy and Government Affairs - Spring 2027 Intern | Washington D.C., United States |  | [Apply](https://www.useno.app/internship/smartrecruiters%3Awwf-mesoam-rica%3A744000158839274?utm_source=github) | 11d |
+| **Stand Together** | KAP 2027-2028 - Education Policy Research Fellow - Show-Me Institute | Missouri | $38-50/hr | [Apply](https://www.useno.app/internship/lever%3Astand-together%3A5ac9b82b-3783-4044-b29f-9dbcb7a425e2?utm_source=github) | 13d |
 | **ESP Associates, Inc.** | Summer 2027 Intern - Municipal Infrastructure | Fort Mill, SC, US |  | [Apply](https://www.useno.app/internship/adp%3Aesp-associates%3A9207310098538_62?utm_source=github) | 14d |
 | **LPL Financial Holdings** | Intern 2027 - Government Relations | Washington, DC | $25/hr | [Apply](https://www.useno.app/internship/workday%3Alpl-financial%3AR-054560?utm_source=github) | 20d |
 | **Habitat for Humanity International** | Healthy Housing Research & Policy Intern | US Remote | $17/hr | [Apply](https://www.useno.app/internship/workday%3Ahabitat-for-humanity-international%3AJR103682?utm_source=github) | 21d |
