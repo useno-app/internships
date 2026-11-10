@@ -20,14 +20,10 @@ The daily internship drop from [Useno](https://www.useno.app/?utm_source=github&
 
 ### Legend
 
-| Mark | Means |
-| :---: | --- |
-| ✨ | New this week: opened 2 to 6 days ago |
-| ⏳ | Open 3+ weeks: apply soon |
-| 🌎 | Hiring in more than one city |
-| 📚 | For master's or PhD students |
-| (3 roles) | The company has more than one opening in this field |
-| 4d | Days since the company posted it |
+- ✨ New this week
+- ⏳ Open 3+ weeks, apply soon
+- 🌎 Hiring in more than one city
+- 📚 For master's or PhD students
 
 ---
 
